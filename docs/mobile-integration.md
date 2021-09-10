@@ -11,6 +11,8 @@ dependencies:
   moru_payment_gateway: ^0.2.6
 ```
 
+> https://pub.dev/packages/moru_payment_gateway
+
 ### Step 2: In your main.dart
 
 ```dart

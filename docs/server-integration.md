@@ -10,8 +10,6 @@ You need to send POST request to `check-payment` api inorder to get the status o
 
 API
 
-> https://test.moru-gateway.pnpl.com.np/gateway/v1/check-payment
-
 - `url`: `https://test.moru-gateway.pnpl.com.np/gateway/v1/check-payment`
 - `method` : `POST`
 - `body`:
@@ -23,7 +21,7 @@ Description
 `moru_txn_identifier` : Moru unique transaction identifier which is received in response after payment is success.
 `transaction_id` : Your unique transaction identifier which you send when initiating the transaction
 
-## Check Payment Response
+## Payment Response
 
 ```json
 {
@@ -43,3 +41,9 @@ Description
   "meta": {}
 }
 ```
+
+## Going to Production
+
+In production the api url is to be updated by:
+
+` https://api.payment-gateway.moru.com.np/gateway/v1/check-payment`

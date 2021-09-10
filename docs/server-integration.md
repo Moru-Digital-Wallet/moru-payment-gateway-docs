@@ -44,6 +44,6 @@ Description
 
 ## Going to Production
 
-In production the api url is to be updated by:
+In production the server to server api url is to be updated by:
 
 ` https://api.payment-gateway.moru.com.np/gateway/v1/check-payment`

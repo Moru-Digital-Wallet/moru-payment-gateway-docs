@@ -1,11 +1,3 @@
-<div align="center">
-
-<!--lint ignore no-dead-urls-->
-
-![Moru Payment Gateway]()
-
-</div>
-
 # Welcome to Moru Payment Gateway!
 
 This document aims to specify all the resources for developers to integrate the moru payment gateway into their website and mobile allowing their customers to make faster payment.
@@ -27,13 +19,13 @@ If you have any queries do contact us at:
 
 paymentgateway@moru.com.np
 
-Business contact number:
+Business contact numbers:
 
 +977 9849256239
 
 +977 9813315240
 
-Technical contact number:
+Technical contact numbers:
 
 +977 9800779383
 

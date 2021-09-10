@@ -28,7 +28,7 @@ The given below is the Sample JS Code to initialize the payment -
 ```html
 <script>
   const options = {
-    access_key: 'b4856fab37c347038c31d8239f8c2157ab1421e50563489c9acec0cba073b637',
+    access_key: 'test_b4856fab37c347038c31d8239f8c2157ab1421e50563489c9acec0cba073b637',
     transaction_id: '1',
     additional_fields: {
       name: 'Shubham Dhakal',
@@ -66,13 +66,13 @@ Place this button in your HTML code, so a user can click on it and proceed to pa
 ```html
 <html>
   <head>
-    <script src="https://sandbox.moru-payment-gateway.pnpl.com.np/sdk/build/moru-checkout.js"></script>
+    <script src="https://web.payment-gateway.moru.com.np/sdk/build/moru-checkout.js"></script>
   </head>
   <body>
     <button onclick="handleMoruPayment()">Pay with Moru</button>
     <script>
       const options = {
-        access_key: 'b4856fab37c347038c31d8239f8c2157ab1421e50563489c9acec0cba073b637',
+        access_key: 'test_b4856fab37c347038c31d8239f8c2157ab1421e50563489c9acec0cba073b637',
         transaction_id: '1',
         additional_fields: {
           name: 'Shubham Dhakal',
@@ -122,7 +122,7 @@ import { MoruCheckout } from 'moru-web-sdk';
 
 function App() {
   const options = {
-    access_key: 'b4856fab37c347038c31d8239f8c2157ab1421e50563489c9acec0cba073b637',
+    access_key: 'test_b4856fab37c347038c31d8239f8c2157ab1421e50563489c9acec0cba073b637',
     transaction_id: '1',
     additional_fields: {
       name: 'Shubham Dhakal',

@@ -17,7 +17,7 @@ Moru Checkout can be integrate into your website using pure JavaScript or using 
 
 ```html
 <head>
-  <script src="https://sandbox.moru-payment-gateway.pnpl.com.np/sdk/build/moru-checkout.js"></script>
+  <script src="https://web.payment-gateway.moru.com.np/sdk/build/moru-checkout.js"></script>
 </head>
 ```
 

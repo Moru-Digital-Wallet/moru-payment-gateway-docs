@@ -21,12 +21,11 @@ paymentgateway@moru.com.np
 
 Business contact numbers:
 
++977 9861124338
 +977 9849256239
-
 +977 9813315240
 
 Technical contact numbers:
 
 +977 9800779383
-
 +977 9860080002

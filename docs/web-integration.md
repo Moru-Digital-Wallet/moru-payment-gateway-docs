@@ -44,6 +44,9 @@ The given below is the Sample JS Code to initialize the payment -
         console.log(error);
         alert('failure');
       },
+      onClose: (error) => {
+        console.log(error);
+      },
     },
   };
   const checkout = new MoruCheckout(options);
@@ -87,6 +90,9 @@ Place this button in your HTML code, so a user can click on it and proceed to pa
           onError: (error) => {
             console.log(error);
             alert('failure');
+          },
+          onClose: (error) => {
+            console.log(error);
           },
         },
       };
@@ -138,6 +144,9 @@ function App() {
         console.log(error);
         alert('failure');
       },
+      onClose: (error) => {
+        console.log(error);
+      },
     },
   };
   const checkout = new MoruCheckout(options);
@@ -176,7 +185,7 @@ export default App;
 
 - callback_handler
 
-callback_handler has two methods onSuccess and onError
+callback_handler has three methods onSuccess, onError and onClose
 
 - onSuccess(response)
 

@@ -14,7 +14,7 @@ API
 - `method` : `POST`
 - `body`:
   - `secret_key`: `<secret key>`
-  - `tnx_identifier`: `moru_txn_identifier` or `transaction_id`
+  - `txn_identifier`: `moru_txn_identifier` or `transaction_id`
 
 Description
 

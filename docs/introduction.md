@@ -29,6 +29,5 @@ Business contact numbers:
 
 Technical contact numbers:
 
-+977 9800779383
++977 9860388558
 
-+977 9860080002

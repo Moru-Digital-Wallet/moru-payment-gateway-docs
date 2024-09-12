@@ -2,7 +2,7 @@
 
 This document aims to specify all the resources for developers to integrate the moru payment gateway into their website and mobile allowing their customers to make faster payment.
 
-Moru payment gateway currently provides web and android SDKs which can be integrated in merchant websites and mobile applications. If your platform is currently not supported, do reach out to us at paymentgateway@moru.com.np
+Moru payment gateway currently provides web and android SDKs which can be integrated in merchant websites and mobile applications. If your platform is currently not supported, do reach out to us at info@moru.com.np / paymentgateway@moru.com.np
 and we can help you out.
 
 ### Product Perspective
@@ -17,17 +17,11 @@ The moru payment gateway is the system that allows the merchant users to make th
 
 If you have any queries do contact us at:
 
-paymentgateway@moru.com.np
+info@moru.com.np / paymentgateway@moru.com.np
 
-Business contact numbers:
+Business contact email:
+ap@moru.com.np
 
-+977 9861124338
-
-+977 9849256239
-
-+977 9813315240
-
-Technical contact numbers:
-
-+977 9860388558
+Technical contact email:
+prabin.silwal@moru.com.np
 

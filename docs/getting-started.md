@@ -15,8 +15,8 @@ The full integration completes in two steps:
 
 You will be provided with the test credentials (access key and secret key) once registered as a moru gateway user. The test keys will be used during the integration process.
 
-During the course of your integration, we would be happy to assist you in any way possible, please reach out to us on contact@moru.com.np with your query.
+During the course of your integration, we would be happy to assist you in any way possible, please reach out to us on info@moru.com.np with your query.
 
 ## Moving to production
 
-After you have completed and tested your integration, please reach out to our team (contact@moru.com.np) and we will review your integration and help you get ready to go on production. After we have checked your integration, and all other processes for onboarding you on to our payment partners have been completed, you will be able to see your Live environment access key & secret key. You will need to change to these keys to link to the Live environment.
+After you have completed and tested your integration, please reach out to our team (info@moru.com.np) and we will review your integration and help you get ready to go on production. After we have checked your integration, and all other processes for onboarding you on to our payment partners have been completed, you will be able to see your Live environment access key & secret key. You will need to change to these keys to link to the Live environment.

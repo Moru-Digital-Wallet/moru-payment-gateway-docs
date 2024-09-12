@@ -112,19 +112,19 @@ Place this button in your HTML code, so a user can click on it and proceed to pa
 #### USING YARN
 
 ```bash
-yarn add moru-web-sdk
+yarn add @moruwallet/moru-web-sdk
 ```
 
 #### USING NPM
 
 ```bash
-npm install moru-web-sdk
+npm install @moruwallet/moru-web-sdk
 ```
 
 #### Usage in React.Js
 
 ```jsx
-import { MoruCheckout } from 'moru-web-sdk';
+import { MoruCheckout } from '@moruwallet/moru-web-sdk';
 
 function App() {
   const options = {

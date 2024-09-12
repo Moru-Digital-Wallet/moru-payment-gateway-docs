@@ -31,8 +31,8 @@ The given below is the Sample JS Code to initialize the payment -
     access_key: 'test_9425294388834bdface7d1b58fd538bf67627d9408fe4f2589820cf550a5003d',
     transaction_id: '1',
     additional_fields: {
-      name: 'Shubham Dhakal',
-      email: 'shubham@gmail.com',
+      name: 'Firstname Lastname',
+      email: 'email@example.com',
     },
     callback_handler: {
       onSuccess: (response) => {
@@ -78,8 +78,8 @@ Place this button in your HTML code, so a user can click on it and proceed to pa
         access_key: 'test_9425294388834bdface7d1b58fd538bf67627d9408fe4f2589820cf550a5003d',
         transaction_id: '1',
         additional_fields: {
-          name: 'Shubham Dhakal',
-          email: 'shubham@gmail.com',
+          name: 'Firstnname Lastname',
+          email: 'email@example.com',
         },
         callback_handler: {
           onSuccess: (response) => {
@@ -131,8 +131,8 @@ function App() {
     access_key: 'test_9425294388834bdface7d1b58fd538bf67627d9408fe4f2589820cf550a5003d',
     transaction_id: '1',
     additional_fields: {
-      name: 'Shubham Dhakal',
-      email: 'shubham@gmail.com',
+      name: 'Firstnname Lastname',
+      email: 'email@example.com',
     },
     callback_handler: {
       onSuccess: (response) => {

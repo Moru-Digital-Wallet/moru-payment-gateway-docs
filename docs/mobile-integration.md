@@ -85,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
                   final Widget widget =  MoruPaymentSDK.builder(accessKey: accessKey, amount: 100)
                         .withAdditionalData(
-                            additionalData: {'name': 'Shubham Dhakal'})
+                            additionalData: {'name': 'Firstname Lastname'})
                         .withProductIdentifier(identifier: '1')
                         .build()
                         .launch(
